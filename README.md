@@ -36,6 +36,7 @@ Differential equations are solved using Python, and the results are visualized t
   - `STOT2_t.dat`: Empirical data for the re-infected population (S' or s).
   - `STOT_t.dat`: Empirical data for the susceptible and resusceptible population (S + s).
 - `RSV_Simulation_Project.ipynb`: Jupyter notebook containing all scripts for easy execution and visualization.
+- `Internship Report.pdf`: Final report submitted after Internship
 - `README.md`: This file.
 
 
